@@ -379,6 +379,42 @@ SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
 Package: org.coolstar.sileo
 Architecture: iphoneos-arm
+Version: 2.5.1
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./pool/org.coolstar.sileo_2.5.1_iphoneos-arm.deb
+Size: 2906812
+MD5sum: e752f751f1ec584bce16328403cd6eeb
+SHA1: 7b8409ac962b1f48abf6dc93ef962681c2c036aa
+SHA256: 85f4d93ce78d2a84b776abf91adcbdac41746e751aa3506daaceddabfbf38599
+SHA512: 3e89f6070e9f15200b1d868f8fafa2ead2bdfa77dc7680ffdd89a94232383a83f81ec6e21db9bdbfdde98bdefb9f624cc29a913ccb2a027196782ad7597b2706
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64
+Version: 2.5.1
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./pool/org.coolstar.sileo_2.5.1_iphoneos-arm64.deb
+Size: 2909972
+MD5sum: 1a63e7c8df30e616f11977a1fcb13797
+SHA1: c2ea7d3cd4f11a9a0f74c115d19df07c3e62f13f
+SHA256: 8e3c90e5a7d32f4ca207a0ac30d3cfa8a13dca86a2b4e11cb3f9e5c68d7bc97a
+SHA512: f59e34d85addcdf208f6f737bc3700fb36d9ae4a020fd132aa1a53d08ae347b8d8001b53d4f97104a1edad707d21324b693142cae41d7a1dcc9539a7b0709be6
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm
 Version: 2.5
 Section: Packaging
 Maintainer: Amy While <me@anamy.gay>
